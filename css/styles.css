@@ -112,7 +112,7 @@ section {
 	margin-bottom:15px;
 }
 
-.linkButton {
+/* .linkButton {
 	margin:0 2px;
     background-color:#005959;
     border: 1px solid black;
@@ -126,7 +126,7 @@ section {
 
 .linkButton:hover {
     background-color:#0d370d;
-}
+} */
 
 
 @media (min-width: 576px) {
