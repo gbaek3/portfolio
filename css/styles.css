@@ -8,6 +8,14 @@ html {
 	padding: 10px;
 }
 
+a{
+	color:#329999;
+}
+
+a:visited{
+	color:rgb(103, 197, 201);
+}
+
 
 main {
 	display: flex;
